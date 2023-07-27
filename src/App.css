@@ -1,0 +1,78 @@
+section{
+  width: 300px;
+  margin: 10%;
+}
+.image-profile{
+  width: 300px
+}
+.details-profile{
+  border-radius: 10px 10px 0px 0px;
+  background: #1A1B21;
+  position: relative;
+  top: -20px;
+}
+.name-details-profile{
+  text-align: center;
+  padding-top: 15px;
+}
+.name-profile{
+  color: #FFF;
+  font-family: Inter;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  
+}
+.role-profile{
+  color: #F3BF99;
+  font-family: Inter;
+  font-size: 12.8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.site-link-profile{
+  color: #F5F5F5;
+  font-family: Inter;
+  font-size: 10.24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 15.36px */
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.social-btns{
+  padding-left: 40px;
+  padding-right: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background: var(--white, #FFF);
+  border-radius: 5px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+.btn-icon{
+  width: 14px;
+  height: 15px;
+  margin-right: 5px;
+}
+.btn-name{
+  color: #000000;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px; /* 114.286% */
+}
+.name-2{
+  color: #FFF;
+}
+.btn-2{
+  background: #5093E2;
+}
